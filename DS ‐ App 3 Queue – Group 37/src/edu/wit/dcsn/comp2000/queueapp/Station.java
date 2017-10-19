@@ -23,14 +23,28 @@ public class Station
         stationID = idCount++;
     }
 
-    public void addPassengerInbound(Passenger passenger)
+    public void addPassenger(Passenger passenger)
     {
-        passengerInbound.enqueue(passenger);
+        if (goInbound(passenger))
+        {
+            passengerInbound.enqueue(passenger);
+        }
+        else
+        {
+            passengerOutbound.enqueue(passenger);
+        }
     }
 
-    public void addPassengerOutbound(Passenger passenger)
+    public Passenger board(boolean isInbound)
     {
-        passengerOutbound.enqueue(passenger);
+        if (isInbound)
+        {
+            return passengerInbound.dequeue();
+        }
+        else
+        {
+            return passengerOutbound.dequeue();
+        }
     }
 
     public int getPositionOnTrack()
@@ -41,6 +55,11 @@ public class Station
     public int getStationID()
     {
         return stationID;
+    }
+
+    public boolean goInbound(Passenger passenger)
+    {
+        return passenger.getEnteringStation().getPositionOnTrack() < passenger.getExitingStation().getPositionOnTrack();
     }
 
     @Override

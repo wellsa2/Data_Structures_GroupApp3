@@ -18,14 +18,31 @@ public class Train
         trainID = idCount++;
     }
 
-    public void disembark()
+    public void transferPassengers(Station currentStation, boolean isInbound)
     {
-        //Remove passengers from list that need to get off at current station
+        disembark(currentStation);
+        embark(currentStation, isInbound);
     }
 
-    public void embark()
+    public void disembark(Station currentStation)
     {
-        //add passengers from station queue to passengersOnTrain list
+        for (int i = 0; i < passengersOnTrain.size(); i++)
+        {
+            if (passengersOnTrain.get(i).getExitingStation() == currentStation)
+            {
+                passengersOnTrain.set(i, passengersOnTrain.get(passengersOnTrain.size()-1));
+                passengersOnTrain.remove(passengersOnTrain.size()-1);
+                i--;
+            }
+        }
+    }
+
+    public void embark(Station currentStation, boolean isInbound)
+    {
+        while(passengersOnTrain.size() < maxCapacity)
+        {
+            passengersOnTrain.add(currentStation.board(isInbound));
+        }
     }
 
     public int getPositionOnTrack()
