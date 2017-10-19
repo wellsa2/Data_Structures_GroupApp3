@@ -21,6 +21,16 @@ public class Passenger
         return passengerID;
     }
 
+    public Station getEnteringStation()
+    {
+        return enteringStation;
+    }
+
+    public Station getExitingStation()
+    {
+        return exitingStation;
+    }
+
     public int getEntryTime()
     {
         return entryTime;

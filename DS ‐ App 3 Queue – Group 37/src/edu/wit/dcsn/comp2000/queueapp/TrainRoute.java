@@ -63,4 +63,26 @@ public class TrainRoute
     {
         outboundTrains.remove(positionOnTrack);
     }
+
+    public void determineArrivals()
+    {
+        for (Station station: stations)
+        {
+            for (Train train: inboundTrains)
+            {
+                if (station.getPositionOnTrack() == train.getPositionOnTrack())
+                {
+                    train.transferPassengers(station, true);
+                }
+            }
+
+            for (Train train: outboundTrains)
+            {
+                if (station.getPositionOnTrack() == train.getPositionOnTrack())
+                {
+                    train.transferPassengers(station, false);
+                }
+            }
+        }
+    }
 }
