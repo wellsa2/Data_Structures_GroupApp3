@@ -28,6 +28,11 @@ public class Train
         //add passengers from station queue to passengersOnTrain list
     }
 
+    public int getPositionOnTrack()
+    {
+        return positionOnTrack;
+    }
+
     public int getTrainID()
     {
         return trainID;

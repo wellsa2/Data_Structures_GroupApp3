@@ -6,11 +6,18 @@ public class TrainRoute
 {
     private ArrayList<Train> inboundTrains = new ArrayList<>();
     private ArrayList<Train> outboundTrains = new ArrayList<>();
+    private ArrayList<Station> stations = new ArrayList<>();
     private int routeLength;
 
     public TrainRoute(int routeLength)
     {
         this.routeLength = routeLength;
+    }
+
+    //adds station to index
+    public void addStation(Station station)
+    {
+        stations.add(station);
     }
 
     //adds train to first index

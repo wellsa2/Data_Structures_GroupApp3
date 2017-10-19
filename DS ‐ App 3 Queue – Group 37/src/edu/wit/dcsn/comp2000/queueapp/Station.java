@@ -12,6 +12,12 @@ public class Station
 
     public Station()
     {
+        this(0);
+    }
+
+    public Station(int positionOnTrack)
+    {
+        this.positionOnTrack = positionOnTrack;
         passengerOutbound = new ArrayQueue<>();
         passengerInbound = new ArrayQueue<>();
         stationID = idCount++;
