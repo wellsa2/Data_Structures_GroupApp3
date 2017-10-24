@@ -1,63 +1,66 @@
-package edu.wit.dcsn.comp2000.queueapp;
+package edu.wit.dcsn.comp2000.queueapp ;
 
-import java.util.ArrayList;
+import java.util.ArrayList ;
 
 public class Train
 {
-    private ArrayList<Passenger> passengersOnTrain;
-    private int maxCapacity;
-    private int positionOnTrack;
-    private int trainID;
-    private static int idCount = 0;
+    private ArrayList<Passenger> passengersOnTrain ;
+    private int maxCapacity ;
+    private int positionOnTrack ;
+    private int trainID ;
+    private static int idCount = 0 ;
 
-    public Train(int maxCapacity, int positionOnTrack)
+    public Train(	int maxCapacity,
+    				int positionOnTrack )
     {
-        passengersOnTrain = new ArrayList<>();
-        this.maxCapacity = maxCapacity;
-        this.positionOnTrack = positionOnTrack;
-        trainID = idCount++;
-    }
+        passengersOnTrain =		new ArrayList<>() ;
+        this.maxCapacity = 		maxCapacity ;
+        this.positionOnTrack = 	positionOnTrack ;
+        trainID = idCount++ ;
+    } // end Train
 
-    public void transferPassengers(Station currentStation, boolean isInbound)
+    public void transferPassengers(	Station currentStation,
+    								boolean isInbound )
     {
-        disembark(currentStation);
-        embark(currentStation, isInbound);
-    }
+        disembark( currentStation ) ;
+        embark( currentStation, isInbound ) ;
+    } // end transferPassengers
 
-    public void disembark(Station currentStation)
+    public void disembark( Station currentStation )
     {
-        for (int i = 0; i < passengersOnTrain.size(); i++)
+        for ( int i = 0 ; i < passengersOnTrain.size() ; i++ )
         {
-            if (passengersOnTrain.get(i).getExitingStation() == currentStation)
+            if ( passengersOnTrain.get( i ).getExitingStation() == currentStation )
             {
-                passengersOnTrain.set(i, passengersOnTrain.get(passengersOnTrain.size()-1));
-                passengersOnTrain.remove(passengersOnTrain.size()-1);
-                i--;
-            }
-        }
-    }
+                passengersOnTrain.set( i, passengersOnTrain.get( passengersOnTrain.size() - 1 ) ) ;
+                passengersOnTrain.remove( passengersOnTrain.size() - 1 ) ;
+                i-- ;
+            } // end if
+        } // end for
+    } // end disembark
 
-    public void embark(Station currentStation, boolean isInbound)
+    public void embark( Station currentStation,
+    					boolean isInbound )
     {
-        while(passengersOnTrain.size() < maxCapacity)
+        while( passengersOnTrain.size() < maxCapacity )
         {
-            passengersOnTrain.add(currentStation.board(isInbound));
-        }
-    }
+            passengersOnTrain.add( currentStation.board( isInbound ) ) ;
+        } // end while
+    } // end embark
 
     public int getPositionOnTrack()
     {
-        return positionOnTrack;
-    }
+        return positionOnTrack ;
+    } // end getPositionOnTrack
 
     public int getTrainID()
     {
-        return trainID;
-    }
+        return trainID ;
+    } // end getTrainID
 
     @Override
     public String toString()
     {
-        return "Train " + trainID;
-    }
+        return "Train " + trainID ;
+    } // end toString
 }
