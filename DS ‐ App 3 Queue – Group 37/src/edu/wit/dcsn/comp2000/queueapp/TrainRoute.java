@@ -16,7 +16,6 @@ import java.util.ArrayList ;
  * 
  */
 
-// TODO restructure add/remove methods
 public class TrainRoute
 {
 	
@@ -36,7 +35,7 @@ public class TrainRoute
     } // end constructor
 
     /**
-     * Add Station object to index.
+     * Adds Station object to index.
      * @param station 
      */
     public void addStation( Station station )
@@ -44,28 +43,42 @@ public class TrainRoute
         stations.add( station ) ;
     } // end addStation
 
-    //adds train to specific index
+    /**
+     * Adds Train object to the inbound track.
+     * @param train
+     */
     public void addInboundTrain( Train train )
     {
         inboundTrains.add( train ) ;
     } // end addInboundTrain
 
+    /**
+     * Removes Train object from the inbound track.
+     * @param train
+     */
     public void removeInboundTrain( Train train )
     {
         inboundTrains.remove( train ) ;
     } // end removeInboundTrain
 
+    /**
+     * Adds Train object to the outbound track.
+     * @param train
+     */
     public void addOutboundTrain( Train train )
     {
         outboundTrains.add( train ) ;
     } // end addOutboundTrain
 
+    /**
+     * Removes Train object from the outbound track.
+     * @param train
+     */
     public void removeOutboundTrain( Train train )
     {
         outboundTrains.remove( train ) ;
     } // end removeOutboundTrain
 
-    // TODO rearrange for loops to increase efficiency
     /**
      * Iterates through indexes to determine which trains have arrived at a station,
      * transferring passengers on the trains that have.
@@ -79,6 +92,7 @@ public class TrainRoute
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
                     train.transferPassengers( station, true ) ;
+                    break ;
                 } // end if
             } // end for
 
@@ -87,6 +101,7 @@ public class TrainRoute
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
                     train.transferPassengers( station, false ) ;
+                    break ;
                 } // end if
             } // end for
         } // end for
