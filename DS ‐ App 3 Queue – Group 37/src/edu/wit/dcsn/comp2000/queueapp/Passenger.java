@@ -15,7 +15,7 @@ public class Passenger
         this.enteringStation = enteringStation;
         this.exitingStation = exitingStation;
         this.entryTime = entryTime;
-        passengerID = idCount++;
+        this.passengerID = idCount++;
     }
 
     
