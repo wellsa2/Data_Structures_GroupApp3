@@ -22,7 +22,7 @@ public class Station
         this.positionOnTrack = positionOnTrack;
         passengerOutbound = new ArrayQueue<>();
         passengerInbound = new ArrayQueue<>();
-        stationID = idCount++;
+        this.stationID = idCount++;
     }
 
     
