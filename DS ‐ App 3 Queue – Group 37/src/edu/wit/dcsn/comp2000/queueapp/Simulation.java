@@ -18,16 +18,20 @@ public class Simulation {
 		
 		int tickCounter = 0;
 		
-		Station stations[] = testStation(config);
+		Station stations[] = setStations(config);
 		
 		PairedLimit[] passengerParameters = testInitialPassengers(config, tickCounter, stations, rand);
 		
 		
 		
+		tickCounter++;
+		
+		Passenger[] pertickPassengers = new Passenger[config.getPassengers()[config.PASSENGERS_PER_TICK].maximum];
+		
 		//tick iteration
-		for(int i = 0; i < config.getTicks(); i++){
+		for(int i = 1; i <= config.getTicks(); i++){
 			
-			testPerTickPassengers(passengerParameters, tickCounter, stations, rand);
+			determinePerTickPassengers(passengerParameters, pertickPassengers, tickCounter, stations, rand);
 			tickCounter++;
 			
 		}
@@ -153,13 +157,15 @@ public class Simulation {
 			
 		}//end for
 		
+		addPassengersToStation(initPassengers);
+		
 		
 		return passengerParameters;
 		
 		
 	}
 	
-	public static void testPerTickPassengers(PairedLimit[] ps, int tickCounter, Station[] stations, Random rand){
+	public static void determinePerTickPassengers(PairedLimit[] ps, Passenger[] perTickPassengers, int tickCounter, Station[] stations, Random rand){
 		
 		int minPerTick = 0;
 		int maxPerTick = 0;
@@ -167,6 +173,8 @@ public class Simulation {
 		
 		minPerTick = ps[1].minimum;
 		maxPerTick = ps[1].maximum;
+		
+		
 		
 		if(minPerTick == maxPerTick){
 			
@@ -186,6 +194,11 @@ public class Simulation {
 		
 		int randEnter = 0;
 		int randExit = 0;
+		
+		for(int i = 0; i < pertickPassengers; i++){
+		
+		randEnter = rand.nextInt(stations.length) + 1; //give each passenger a random entering station
+		randExit = rand.nextInt(stations.length) + 1; //give each passenger a random exiting station
 		
 		if(randEnter == randExit){
 			
@@ -261,6 +274,23 @@ public class Simulation {
 		
 		//create pertick passengers here
 		
+		perTickPassengers[i] = new Passenger(entStation, extStation, tickCounter);
+		
+		}// end for
+		
+		addPassengersToStation(perTickPassengers);
+		Arrays.fill(perTickPassengers, null);
+		
+	}
+	
+	public static void addPassengersToStation(Passenger[] p){
+		
+		for(int i = 0; i < p.length; i++){
+			
+			p[i].getEnteringStation().addPassenger(p[i]);
+			
+			
+		}
 		
 		
 	}
@@ -270,14 +300,14 @@ public class Simulation {
 		
 	}
 	
-	public static Station[] testStation(Configuration config){
+	public static Station[] setStations(Configuration config){
 		
 		int[]stationLocations = config.getStations();
 		Station[] stations = new Station[stationLocations.length];
 		
 		for(int i = 0; i < stations.length; i++){
 			
-			stations[0] = new Station(stationLocations[i]);
+			stations[i] = new Station(stationLocations[i]);
 			
 		}
 		
