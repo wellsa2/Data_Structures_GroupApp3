@@ -22,6 +22,8 @@ public class Simulation {
 		
 		PairedLimit[] passengerParameters = testInitialPassengers(config, tickCounter, stations, rand);
 		
+		
+		
 		//tick iteration
 		for(int i = 0; i < config.getTicks(); i++){
 			
@@ -78,7 +80,7 @@ public class Simulation {
 				
 			}
 			
-			// assign randEnter to an actual station
+			// assign entStation to an actual station
 			switch(randEnter){
 			
 			case 1: randEnter = 1;
@@ -113,7 +115,7 @@ public class Simulation {
 			
 			}
 			
-			//assign randExit to an actual station
+			//assign extStation to an actual station
 			switch(randExit){
 			
 			case 1: randExit = 1;
