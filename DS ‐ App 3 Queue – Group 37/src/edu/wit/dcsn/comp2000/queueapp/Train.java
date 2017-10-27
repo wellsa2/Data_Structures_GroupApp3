@@ -8,14 +8,15 @@ public class Train
     private int maxCapacity ;
     private int positionOnTrack ;
     private int trainID ;
+	Direction direction;
     private static int idCount = 0 ;
 
-    public Train(	int maxCapacity,
-    				int positionOnTrack )
+    public Train( int positionOnTrack, Direction direction, int maxCapacity )
     {
         passengersOnTrain =		new ArrayList<>() ;
-        this.maxCapacity = 		maxCapacity ;
         this.positionOnTrack = 	positionOnTrack ;
+        this.direction = direction;
+        this.maxCapacity = 		maxCapacity ;
         trainID = idCount++ ;
     } // end Train
 

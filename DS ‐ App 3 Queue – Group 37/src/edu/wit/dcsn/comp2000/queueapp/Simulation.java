@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 import edu.wit.dcsn.comp2000.queueapp.Configuration.PairedLimit;
+import edu.wit.dcsn.comp2000.queueapp.Configuration.RouteSpec;
+import edu.wit.dcsn.comp2000.queueapp.Configuration.TrainSpec;
 
 public class Simulation {
 
@@ -18,24 +20,24 @@ public class Simulation {
 		
 		int tickCounter = 0;
 		
-		Station stations[] = setStations(config);
+		Station stations[] = setStations(config); //build stations
 		
 		PairedLimit[] passengerParameters = testInitialPassengers(config, tickCounter, stations, rand);
 		
+		TrainRoute route = setTrainRoute(config, stations); //build train route and add stations to the route
 		
-		
-		tickCounter++;
+		setTrains(config, route); //build trains and add them to the route
 		
 		Passenger[] pertickPassengers = new Passenger[config.getPassengers()[config.PASSENGERS_PER_TICK].maximum];
 		
-		//tick iteration
+		tickCounter++; //starting tick iteration...
+		
 		for(int i = 1; i <= config.getTicks(); i++){
 			
 			determinePerTickPassengers(passengerParameters, pertickPassengers, tickCounter, stations, rand);
 			tickCounter++;
 			
 		}
-		
 
 }
 	
@@ -278,8 +280,8 @@ public class Simulation {
 		
 		}// end for
 		
-		addPassengersToStation(perTickPassengers);
-		Arrays.fill(perTickPassengers, null);
+		addPassengersToStation(perTickPassengers); //add the passengers to their entering station
+		Arrays.fill(perTickPassengers, null); //clear array for next tick iteration
 		
 	}
 	
@@ -295,7 +297,35 @@ public class Simulation {
 		
 	}
 	
-	public static void testTrain(){
+	public static void setTrains(Configuration config, TrainRoute tr){
+		
+		TrainSpec[] spec = config.getTrains();
+		
+		Train[] trains = new Train[spec.length];
+		
+		for(int i = 0; i < trains.length; i++){
+			
+			trains[i] = new Train(spec[i].location, spec[i].direction, spec[i].capacity); //create trains
+			
+		}
+		
+		// add trains to the train route
+		
+		for(int i = 0; i < trains.length; i++){
+			
+			if(trains[i].direction == Direction.INBOUND){
+				
+				tr.addInboundTrain(spec[i].location, trains[i]) ;
+				
+			}
+			
+			else if(trains[i].direction == Direction.OUTBOUND){
+				
+				tr.addOutboundTrain(spec[i].location, trains[i]);
+				
+			}
+			
+		} //end for
 		
 		
 	}
@@ -315,8 +345,23 @@ public class Simulation {
 		
 	}
 	
-	public static void testTrainRoute(){
+	public static TrainRoute setTrainRoute(Configuration config, Station[] stations){
 		
+		RouteSpec routeSpec = config.getRoute();
+		
+		int rtLength = routeSpec.length; //get length of train route
+		
+		
+		TrainRoute trainRoute = new TrainRoute(rtLength); //create route
+		
+
+		for(int i = 0; i < stations.length; i++){ //add stations to the route
+			
+			trainRoute.addStation(stations[i]); 
+			
+		}
+		
+		return trainRoute;
 		
 	}
 	
