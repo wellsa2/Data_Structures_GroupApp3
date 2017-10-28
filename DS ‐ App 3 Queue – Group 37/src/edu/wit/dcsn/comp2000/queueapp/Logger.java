@@ -5,10 +5,18 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
+/**
+ * Creates a logger class
+ */
 public class Logger
 {
     private PrintWriter logWriter;
 
+    /**
+     * Opens a log file
+     * @throws FileNotFoundException thrown if Log file can't be found
+     * @throws java.io.UnsupportedEncodingException thrown if "utf-8" isn't valid encoding
+     */
     public Logger() throws FileNotFoundException, java.io.UnsupportedEncodingException
     {
 
@@ -19,16 +27,29 @@ public class Logger
         logWriter = new PrintWriter(logFile,"utf-8");
     }
 
+    /**
+     * Prints to the log
+     * @param s string to be printed
+     */
     public void print(String s)
     {
         logWriter.println(s);
     }
 
+    /**
+     * closes the log
+     */
     public void close()
     {
         logWriter.close();
     }
 
+    /**
+     * Tester for Logger
+     * @param args args for main
+     * @throws FileNotFoundException thrown if file isn't found
+     * @throws java.io.UnsupportedEncodingException thrown if encoding isn't accepted
+     */
     public static void main(String[] args) throws FileNotFoundException, java.io.UnsupportedEncodingException
     {
         System.out.println("Testing Logger");

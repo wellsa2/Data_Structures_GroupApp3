@@ -1,22 +1,21 @@
 package edu.wit.dcsn.comp2000.queueapp ;
 
-//COMP 2000 - 03
-//Queue Application 3
-//Group 37
-//Aiden Wells
-//10/24/2017
+/* COMP 2000 - 03
+ * Queue Application 3
+ * Group 37
+ * AUTHOR TBD
+ * 10/24/2017
+ */
 
 import java.util.ArrayList ;
 
 /**
  * Acts as a point-to-point track where Train objects and Station objects are held.
  *
- * 
- * @author Aiden Wells
+ * @author TBD
  * 
  */
 
-// TODO restructure add/remove methods
 public class TrainRoute
 {
 	
@@ -27,7 +26,7 @@ public class TrainRoute
     private int routeLength ;										// arbitrary unit length of track
 
     /**
-     * Creates and initializes a TrainRoute object given the route length.
+     * Creates and initializes a TrainRoute object given the route length. 
      * @param routeLength arbitrary unit length of route
      */
     public TrainRoute( int routeLength )
@@ -36,7 +35,7 @@ public class TrainRoute
     } // end constructor
 
     /**
-     * Add Station object to index.
+     * Adds Station object to index.
      * @param station 
      */
     public void addStation( Station station )
@@ -44,53 +43,42 @@ public class TrainRoute
         stations.add( station );
     } // end addStation
 
-    //adds train to first index
+    /**
+     * Adds Train object to the inbound track.
+     * @param train
+     */
     public void addInboundTrain( Train train )
     {
-        addInboundTrain( 0, train ) ;
+        inboundTrains.add( train ) ;
     } // end addInboundTrain
 
-    //adds train to specific index
-    public void addInboundTrain( 	int positionOnTrack,
-    								Train train )
+    /**
+     * Removes Train object from the inbound track.
+     * @param train
+     */
+    public void removeInboundTrain( Train train )
     {
-        inboundTrains.add( positionOnTrack, train ) ;
-    } // end addInboundTrain
-
-    //removes train at end of list
-    public void removeInboundTrain()
-    {
-        removeInboundTrain( routeLength - 1 ) ;
+        inboundTrains.remove( train ) ;
     } // end removeInboundTrain
 
-    //removes train at index
-    public void removeInboundTrain( int positionOnTrack )
-    {
-        inboundTrains.remove( positionOnTrack ) ;
-    } // end removeInboundTrain
-
+    /**
+     * Adds Train object to the outbound track.
+     * @param train
+     */
     public void addOutboundTrain( Train train )
     {
-        addOutboundTrain( 0, train ) ;
+        outboundTrains.add( train ) ;
     } // end addOutboundTrain
 
-    public void addOutboundTrain( 	int positionOnTrack,
-    								Train train )
+    /**
+     * Removes Train object from the outbound track.
+     * @param train
+     */
+    public void removeOutboundTrain( Train train )
     {
-        outboundTrains.add( positionOnTrack, train ) ;
-    } // end addOutboundTrain
-
-    public void removeOutboundTrain()
-    {
-        removeOutboundTrain( routeLength - 1 ) ;
+        outboundTrains.remove( train ) ;
     } // end removeOutboundTrain
 
-    public void removeOutboundTrain( int positionOnTrack )
-    {
-        outboundTrains.remove( positionOnTrack ) ;
-    } // end removeOutboundTrain
-
-    // TODO rearrange for loops to increase efficiency
     /**
      * Iterates through indexes to determine which trains have arrived at a station,
      * transferring passengers on the trains that have.
@@ -104,6 +92,7 @@ public class TrainRoute
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
                     train.transferPassengers( station, true ) ;
+                    break ;
                 } // end if
             } // end for
 
@@ -112,6 +101,7 @@ public class TrainRoute
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
                     train.transferPassengers( station, false ) ;
+                    break ;
                 } // end if
             } // end for
         } // end for
