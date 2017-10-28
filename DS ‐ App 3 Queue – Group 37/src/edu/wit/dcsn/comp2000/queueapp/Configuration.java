@@ -370,7 +370,7 @@ public class Configuration
 	public static void main( String[] args ) throws FileNotFoundException
 		{
 		Configuration	theConfiguration		= new Configuration() ;
-		
+
 		// General
 		System.out.println( "Ticks: " + theConfiguration.getTicks() ) ;
 		System.out.println( "Seed: " + theConfiguration.getSeed() ) ;
