@@ -83,9 +83,30 @@ public class Train
     {
         while( passengersOnTrain.size() < maxCapacity )
         {
-            passengersOnTrain.add( currentStation.board( isInbound ) ) ;
+            if ( currentStation.canBoard ( isInbound ) )
+            {
+                passengersOnTrain.add( currentStation.board( isInbound ) );
+            } // end if
         } // end while
     } // end embark
+
+
+    /**
+     * Adjusts the train's index based on whether the train is moving inbound or outbound
+     * @param isInbound true if the train is headed inbound
+     */
+    public void moveTrain(Boolean isInbound)
+    {
+        if (isInbound)
+        {
+            positionOnTrack++;
+        }
+        else
+        {
+            positionOnTrack--;
+        }
+    }
+
 
     /**
      * Gives current position of train on the track.
@@ -117,4 +138,35 @@ public class Train
     {
         return "Train " + trainID ;
     } // end toString
+
+    public static void main(String[] args)
+    {
+        System.out.println("\n----------Testing Train----------\n");
+
+        testConstructors();
+
+        testPublicMethods();
+    }
+
+    private static void testConstructors()
+    {
+        System.out.println("\n----------\nTesting Constructors");
+        Train train0 = new Train(20, 0);
+    }
+
+    private static void testPublicMethods()
+    {
+        Station station0 = new Station(0);
+        Station station1 = new Station(1);
+        Passenger inboundPassenger0 = new Passenger(station0, station1, 0);
+        Passenger inboundPassenger1 = new Passenger(station0, station1, 0);
+        Passenger inboundPassenger2 = new Passenger(station0, station1, 0);
+        station0.addPassenger(inboundPassenger0);
+        station0.addPassenger(inboundPassenger1);
+        station0.addPassenger(inboundPassenger2);
+        Train train0 = new Train(2, 0);
+        train0.transferPassengers(station0, true);
+        train0.moveTrain(true);
+        train0.transferPassengers(station1, true);
+    }
 }
