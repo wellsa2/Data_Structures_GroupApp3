@@ -40,7 +40,7 @@ public class TrainRoute
      */
     public void addStation( Station station )
     {
-        stations.add( station ) ;
+        stations.add( station );
     } // end addStation
 
     /**

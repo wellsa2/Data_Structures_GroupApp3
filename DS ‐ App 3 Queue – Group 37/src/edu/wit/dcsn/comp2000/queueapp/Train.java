@@ -22,6 +22,7 @@ public class Train
     private int maxCapacity ;							// maximum number of passengers permitted on train
     private int positionOnTrack ;						// train's current position on track
     private int trainID ;								// ID will be unique for each Train object based off idCount
+    Direction direction ;
     
     // static variable
     private static int idCount = 0 ;					// counts up by 1 for each new Train object created
@@ -31,13 +32,16 @@ public class Train
      * 
      * @param maxCapacity maximum number of passengers permitted on train
      * @param positionOnTrack between 0 & routeLength (from config), inclusive
+     * @param direction inbound or outbound
      */
-    public Train(	int maxCapacity,
-    				int positionOnTrack )
+     public Train(  int positionOnTrack,
+                    Direction direction,
+                    int maxCapacity )
     {
         passengersOnTrain =		new ArrayList<>() ;
-        this.maxCapacity = 		maxCapacity ;
         this.positionOnTrack = 	positionOnTrack ;
+        this.direction = direction ;
+        this.maxCapacity = 		maxCapacity ;
         trainID = idCount++ ;
     } // end constructor
 
