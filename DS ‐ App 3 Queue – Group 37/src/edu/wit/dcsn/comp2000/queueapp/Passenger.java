@@ -1,29 +1,39 @@
-package edu.wit.dcsn.comp2000.queueapp;
+package edu.wit.dcsn.comp2000.queueapp ;
+
+/* COMP 2000 - 03
+ * Queue Application 3
+ * Group 37
+ * AUTHOR TBD
+ * 10/24/2017
+ */
+
 /**
  * A class that specifies the properties and functions of a passenger. 
  */
 public class Passenger
 {
-    private Station enteringStation = new Station();
-    private Station exitingStation = new Station();
-    private int passengerID;
-    private int entryTime;
-    private static int idCount = 0;
-    private boolean initialized = false;
+    private Station enteringStation = new Station() ;
+    private Station exitingStation = new Station() ;
+    private int passengerID ;
+    private int entryTime ;
+    private static int idCount = 0 ;
+    private boolean initialized = false ;
 
-    public Passenger(Station enteringStation, Station exitingStation, int entryTime)
+    public Passenger( 	Station enteringStation,
+    					Station exitingStation,
+    					int entryTime )
     {
-        if (enteringStation == null || exitingStation == null)
+        if (enteringStation == null || exitingStation == null )
         {
-            initialized = false;
+            initialized = false ;
         }
         else
         {
-            this.enteringStation = enteringStation;
-            this.exitingStation = exitingStation;
-            this.entryTime = entryTime;
-            this.passengerID = idCount++;
-            initialized = true;
+            this.enteringStation = enteringStation ;
+            this.exitingStation = exitingStation ;
+            this.entryTime = entryTime ;
+            this.passengerID = idCount++ ;
+            initialized = true ;
         }
     }
 
@@ -34,8 +44,8 @@ public class Passenger
      */
     public int getPassengerID()
     {
-        checkInitialization();
-        return passengerID;
+        checkInitialization() ;
+        return passengerID ;
     }// end getPassengerID
 
     
@@ -45,8 +55,8 @@ public class Passenger
      */
     public Station getEnteringStation()
     {
-        checkInitialization();
-        return enteringStation;
+        checkInitialization() ;
+        return enteringStation ;
     }// end getEnteringStation
 
     
@@ -56,8 +66,8 @@ public class Passenger
      */
     public Station getExitingStation()
     {
-        checkInitialization();
-        return exitingStation;
+        checkInitialization() ;
+        return exitingStation ;
     }// end getExitingStation
 
     
@@ -67,8 +77,8 @@ public class Passenger
      */
     public int getEntryTime()
     {
-        checkInitialization();
-        return entryTime;
+        checkInitialization() ;
+        return entryTime ;
     }// end getEntryTime
 
     
@@ -79,8 +89,8 @@ public class Passenger
     @Override
     public String toString()
     {
-        checkInitialization();
-        return "Passenger " + passengerID;
+        checkInitialization() ;
+        return "Passenger " + passengerID ;
     }// end toString
 
 
@@ -89,36 +99,36 @@ public class Passenger
      */
     private void checkInitialization()
     {
-        if (!initialized)
+        if ( !initialized )
         {
-            throw new SecurityException("Passenger is not properly initialized.");
+            throw new SecurityException( "Passenger is not properly initialized." ) ;
         } // end checkInitialization
     } // end checkInitialization
 
 
-    public static void main(String[] args)
+    public static void main( String[] args )
     {
-        System.out.println("\n----------Testing Passenger----------\n");
+        System.out.println( "\n----------Testing Passenger----------\n" ) ;
 
-        testConstructors();
+        testConstructors() ;
 
-        testPublicMethods();
+        testPublicMethods() ;
     }
 
 
     private static void testConstructors()
     {
-        System.out.println("\n----------Testing Constructors----------\n");
-        Passenger passenger0 = new Passenger(new Station(), new Station(1), 0);
-        passenger0.checkInitialization();
-        Passenger passenger1 = new Passenger(null, null, 0);
+        System.out.println( "\n----------Testing Constructors----------\n" ) ;
+        Passenger passenger0 = new Passenger( new Station(), new Station( 1 ), 0 ) ;
+        passenger0.checkInitialization() ;
+        Passenger passenger1 = new Passenger( null, null, 0 ) ;
         try
         {
-            passenger1.checkInitialization();
+            passenger1.checkInitialization() ;
         }
-        catch (SecurityException e)
+        catch ( SecurityException e )
         {
-            System.out.println(e.toString());
+            System.out.println( e.toString() ) ;
         }
 
     }
@@ -126,13 +136,13 @@ public class Passenger
 
     private static void testPublicMethods()
     {
-        System.out.println("\n----------Testing Public Methods----------\n");
-        Passenger passenger0 = new Passenger(new Station(), new Station(1), 0);
-        System.out.println(passenger0.getPassengerID());
-        System.out.println(passenger0.getEnteringStation());
-        System.out.println(passenger0.getExitingStation());
-        System.out.println(passenger0.getEntryTime());
-        System.out.println(passenger0.toString());
+        System.out.println( "\n----------Testing Public Methods----------\n" ) ;
+        Passenger passenger0 = new Passenger( new Station(), new Station( 1 ), 0 ) ;
+        System.out.println( passenger0.getPassengerID() ) ;
+        System.out.println( passenger0.getEnteringStation() ) ;
+        System.out.println( passenger0.getExitingStation() ) ;
+        System.out.println( passenger0.getEntryTime() ) ;
+        System.out.println( passenger0.toString() ) ;
 
     }
 }// end Passenger
