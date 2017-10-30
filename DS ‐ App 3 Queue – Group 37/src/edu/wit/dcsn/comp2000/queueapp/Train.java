@@ -22,7 +22,6 @@ public class Train
     private int maxCapacity ;							// maximum number of passengers permitted on train
     private int positionOnTrack ;						// train's current position on track
     private int trainID ;								// ID will be unique for each Train object based off idCount
-    Direction direction ;
     
     // static variable
     private static int idCount = 0 ;					// counts up by 1 for each new Train object created
@@ -32,15 +31,12 @@ public class Train
      * 
      * @param maxCapacity maximum number of passengers permitted on train
      * @param positionOnTrack between 0 & routeLength (from config), inclusive
-     * @param direction inbound or outbound
      */
      public Train(  int positionOnTrack,
-                    Direction direction,
                     int maxCapacity )
     {
         passengersOnTrain =		new ArrayList<>() ;
         this.positionOnTrack = 	positionOnTrack ;
-        this.direction = direction ;
         this.maxCapacity = 		maxCapacity ;
         trainID = idCount++ ;
     } // end constructor
@@ -85,12 +81,9 @@ public class Train
     public void embark( Station currentStation,
     					boolean isInbound )
     {
-        while( passengersOnTrain.size() < maxCapacity )
+        while( passengersOnTrain.size() < maxCapacity && currentStation.canBoard(isInbound))
         {
-            if ( currentStation.canBoard ( isInbound ) )
-            {
-                passengersOnTrain.add( currentStation.board( isInbound ) );
-            } // end if
+            passengersOnTrain.add( currentStation.board( isInbound ) );
         } // end while
     } // end embark
 
@@ -142,6 +135,19 @@ public class Train
     {
         return "Train " + trainID ;
     } // end toString
+
+
+    public int numberOfPassengers()
+    {
+        return passengersOnTrain.size();
+    }
+
+
+    public Passenger getPassenger(int index)
+    {
+        return passengersOnTrain.get(index);
+    }
+
 
     public static void main(String[] args)
     {

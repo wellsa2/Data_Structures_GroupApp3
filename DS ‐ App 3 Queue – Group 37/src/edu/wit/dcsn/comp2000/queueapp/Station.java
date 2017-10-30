@@ -10,6 +10,8 @@ public class Station
 {
     private ArrayQueue<Passenger> passengerOutbound;
     private ArrayQueue<Passenger> passengerInbound;
+    private int numberOfOutboundPassengers = 0;
+    private int numberOfInboundPassengers = 0;
     private int positionOnTrack;
     private int stationID;
     private static int idCount = 0;
@@ -37,10 +39,12 @@ public class Station
         if ( goInbound( passenger ) )
         {
             passengerInbound.enqueue(passenger);
+            numberOfInboundPassengers++;
         }
         else
         {
             passengerOutbound.enqueue(passenger);
+            numberOfOutboundPassengers++;
         }
     }// end addPassenger
 
@@ -66,6 +70,18 @@ public class Station
     }
 
 
+    public int getNumberOfOutboundPassengers()
+    {
+        return numberOfOutboundPassengers;
+    }
+
+
+    public int getNumberOfInboundPassengers()
+    {
+        return numberOfInboundPassengers;
+    }
+
+
     /**
      * Boards a passenger onto the train. Removes the passenger from the respective queue.
      * @param isInbound
@@ -79,10 +95,12 @@ public class Station
         }
         if ( isInbound )
         {
+            numberOfInboundPassengers--;
             return passengerInbound.dequeue();
         }
         else
         {
+            numberOfOutboundPassengers--;
             return passengerOutbound.dequeue();
         }
     }// end board
@@ -96,7 +114,19 @@ public class Station
         return positionOnTrack;
     }// end getPositionOnTrack
 
-    
+
+    public boolean inboundQueueEmpty()
+    {
+        return passengerInbound.isEmpty();
+    }
+
+
+    public boolean outboundQueueEmpty()
+    {
+        return passengerOutbound.isEmpty();
+    }
+
+
     /**
      * gets a specified station's id number.
      * @return stationID
