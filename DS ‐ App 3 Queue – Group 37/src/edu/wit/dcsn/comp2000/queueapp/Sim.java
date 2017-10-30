@@ -34,7 +34,7 @@ public class Sim
             System.out.printf("%n---------------%nRunning tick %d", ticker);
             addPassengers(trainRoute, ticker);
             System.out.printf("%nTransferring Passengers");
-            trainRoute.determineArrivals();
+            logger.info(trainRoute.determineArrivals(ticker));
             System.out.printf("%nMoving trains forward");
             trainRoute.moveTrains();
             logState(trainRoute, false, ticker);

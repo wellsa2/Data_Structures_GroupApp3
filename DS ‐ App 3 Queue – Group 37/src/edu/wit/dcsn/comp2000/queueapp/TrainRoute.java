@@ -7,6 +7,7 @@ package edu.wit.dcsn.comp2000.queueapp ;
  * 10/24/2017
  */
 
+import java.lang.reflect.Array;
 import java.util.ArrayList ;
 
 /**
@@ -157,16 +158,23 @@ public class TrainRoute
     /**
      * Iterates through indexes to determine which trains have arrived at a station,
      * transferring passengers on the trains that have.
+     * @return String describing disembarking passengers
      */
-    public void determineArrivals()
+    public String determineArrivals(int tick)
     {
+        StringBuilder disembarkingPassengersLog = new StringBuilder();
+
         for ( Station station : stations )
         {
             for ( Train train : inboundTrains )
             {
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
-                    train.transferPassengers( station, true );
+                    ArrayList<Passenger> disembarkingPassengers = train.transferPassengers( station, true );
+                    for (Passenger passenger : disembarkingPassengers)
+                    {
+                        disembarkingPassengersLog.append(String.format("%n      Passenger %d arrived at Station %d in %d ticks%n", passenger.getPassengerID(), station.getStationID(), tick -passenger.getEntryTime()));
+                    }
                 } // end if
             } // end for
 
@@ -174,10 +182,16 @@ public class TrainRoute
             {
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
-                    train.transferPassengers( station, false );
+                    ArrayList<Passenger> disembarkingPassengers = train.transferPassengers( station, false );
+                    for (Passenger passenger : disembarkingPassengers)
+                    {
+                        disembarkingPassengersLog.append(String.format("%n      Passenger %d arrived at Station %d in %d ticks%n", passenger.getPassengerID(), station.getStationID(), tick -passenger.getEntryTime()));
+                    }
                 } // end if
             } // end for
         } // end for
+
+        return disembarkingPassengersLog.toString();
     } // end determineArrivals
     
 } // end TrainRoute
