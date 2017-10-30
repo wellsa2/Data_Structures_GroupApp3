@@ -80,6 +80,81 @@ public class TrainRoute
     } // end removeOutboundTrain
 
     /**
+     * Returns route length
+     * @return Route length as integer
+     */
+    public int getRouteLength()
+    {
+        return routeLength;
+    }
+
+    public int getNumberOfStations()
+    {
+        return stations.size();
+    }
+
+    public Station getStation(int index)
+    {
+        return stations.get(index);
+    }
+
+    public int getNumberOfInboundTrains()
+    {
+        return inboundTrains.size();
+    }
+
+    public Train getInboundTrains(int index)
+    {
+        return inboundTrains.get(index);
+    }
+
+    public int getNumberOfOutboundTrains()
+    {
+        return outboundTrains.size();
+    }
+
+    public Train getOutboundTrains(int index)
+    {
+        return outboundTrains.get(index);
+    }
+
+    public void moveTrains()
+    {
+        swapTrainsAtEndOfLine();
+        for (Train train : inboundTrains)
+        {
+            train.moveTrain(true);
+        }
+        for (Train train : outboundTrains)
+        {
+            train.moveTrain(false);
+        }
+    }
+
+    private void swapTrainsAtEndOfLine()
+    {
+        for (int i = 0; i < inboundTrains.size(); i++)
+        {
+            if (inboundTrains.get(i).getPositionOnTrack() == routeLength - 1)
+            {
+                Train trainToMove = inboundTrains.get(i);
+                inboundTrains.remove(trainToMove);
+                outboundTrains.add(trainToMove);
+            }
+        }
+
+        for (int i = 0; i < outboundTrains.size(); i++)
+        {
+            if (outboundTrains.get(i).getPositionOnTrack() == 0)
+            {
+                Train trainToMove = outboundTrains.get(i);
+                outboundTrains.remove(trainToMove);
+                inboundTrains.add(trainToMove);
+            }
+        }
+    }
+
+    /**
      * Iterates through indexes to determine which trains have arrived at a station,
      * transferring passengers on the trains that have.
      */
@@ -91,8 +166,7 @@ public class TrainRoute
             {
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
-                    train.transferPassengers( station, true ) ;
-                    break ;
+                    train.transferPassengers( station, true );
                 } // end if
             } // end for
 
@@ -100,8 +174,7 @@ public class TrainRoute
             {
                 if ( station.getPositionOnTrack() == train.getPositionOnTrack() )
                 {
-                    train.transferPassengers( station, false ) ;
-                    break ;
+                    train.transferPassengers( station, false );
                 } // end if
             } // end for
         } // end for
