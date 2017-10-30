@@ -7,6 +7,7 @@ package edu.wit.dcsn.comp2000.queueapp ;
  * 10/24/2017
  */
 
+import java.lang.reflect.Array;
 import java.util.ArrayList ;
 
 /**
@@ -47,11 +48,12 @@ public class Train
      * @param currentStation station at the same position on the track as the train
      * @param isInbound true for inbound, false for outbound
      */
-    public void transferPassengers(	Station currentStation,
+    public ArrayList<Passenger> transferPassengers(	Station currentStation,
     								boolean isInbound )
     {
-        disembark( currentStation ) ;
+        ArrayList<Passenger> disembarkingPassengers = disembark( currentStation ) ;
         embark( currentStation, isInbound ) ;
+        return disembarkingPassengers;
     } // end transferPassengers
 
     /**
@@ -59,17 +61,22 @@ public class Train
      * 
      * @param currentStation 
      */
-    public void disembark( Station currentStation )
+    public ArrayList<Passenger> disembark( Station currentStation )
     {
+        ArrayList<Passenger> disembarkingPassengers = new ArrayList<>();
+
         for ( int i = 0 ; i < passengersOnTrain.size() ; i++ )
         {
             if ( passengersOnTrain.get( i ).getExitingStation() == currentStation )
             {
+                disembarkingPassengers.add(passengersOnTrain.get(i));
                 passengersOnTrain.set( i, passengersOnTrain.get( passengersOnTrain.size() - 1 ) ) ;
                 passengersOnTrain.remove( passengersOnTrain.size() - 1 ) ;
                 i-- ;
             } // end if
         } // end for
+
+        return disembarkingPassengers;
     } // end disembark
 
     /**

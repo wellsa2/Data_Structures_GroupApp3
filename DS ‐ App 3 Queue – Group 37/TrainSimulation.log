@@ -1,9 +1,9 @@
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 0
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -35,7 +35,7 @@ INFO:
           Outbound:
                0 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 1:
@@ -47,12 +47,14 @@ INFO:
           Train 4 at index 4:
           Train 5 at index 20:
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 0
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -84,7 +86,7 @@ INFO:
           Outbound:
                8 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 2:
@@ -123,12 +125,12 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 1
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -160,7 +162,7 @@ INFO:
           Outbound:
                8 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 2:
@@ -199,12 +201,14 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 1
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -236,7 +240,7 @@ INFO:
           Outbound:
                11 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 3:
@@ -275,12 +279,12 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 2
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -312,7 +316,7 @@ INFO:
           Outbound:
                11 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 3:
@@ -351,12 +355,14 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 2
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -388,7 +394,7 @@ INFO:
           Outbound:
                13 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 4:
@@ -442,12 +448,12 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 3
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -479,7 +485,7 @@ INFO:
           Outbound:
                13 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 4:
@@ -533,12 +539,20 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 5 arrived at Station 0 in 3 ticks
+
+      Passenger 45 arrived at Station 0 in 3 ticks
+
+      Passenger 35 arrived at Station 0 in 3 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 3
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -570,7 +584,7 @@ INFO:
           Outbound:
                15 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 5:
@@ -623,12 +637,12 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 4
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -660,7 +674,7 @@ INFO:
           Outbound:
                15 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 5:
@@ -713,12 +727,14 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 4
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -750,7 +766,7 @@ INFO:
           Outbound:
                20 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 6:
@@ -819,12 +835,12 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 5
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -856,7 +872,7 @@ INFO:
           Outbound:
                20 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 6:
@@ -925,12 +941,24 @@ INFO:
                Passenger 47
                Passenger 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 20 arrived at Station 3 in 5 ticks
+
+      Passenger 24 arrived at Station 3 in 5 ticks
+
+      Passenger 11 arrived at Station 3 in 5 ticks
+
+      Passenger 32 arrived at Station 3 in 5 ticks
+
+      Passenger 33 arrived at Station 3 in 5 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 5
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -962,7 +990,7 @@ INFO:
           Outbound:
                22 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 7:
@@ -1059,12 +1087,12 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 6
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1096,7 +1124,7 @@ INFO:
           Outbound:
                22 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 7:
@@ -1193,12 +1221,14 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 6
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1230,7 +1260,7 @@ INFO:
           Outbound:
                26 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 8:
@@ -1327,12 +1357,12 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 7
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1364,7 +1394,7 @@ INFO:
           Outbound:
                26 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 8:
@@ -1461,12 +1491,14 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 7
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1498,7 +1530,7 @@ INFO:
           Outbound:
                28 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 9:
@@ -1595,12 +1627,12 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 8
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1632,7 +1664,7 @@ INFO:
           Outbound:
                28 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 9:
@@ -1729,12 +1761,32 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 50 arrived at Station 2 in 7 ticks
+
+      Passenger 54 arrived at Station 2 in 7 ticks
+
+      Passenger 64 arrived at Station 2 in 7 ticks
+
+      Passenger 78 arrived at Station 2 in 7 ticks
+
+      Passenger 37 arrived at Station 4 in 8 ticks
+
+      Passenger 135 arrived at Station 4 in 6 ticks
+
+      Passenger 128 arrived at Station 4 in 6 ticks
+
+      Passenger 41 arrived at Station 4 in 8 ticks
+
+      Passenger 97 arrived at Station 4 in 7 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 8
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1766,7 +1818,7 @@ INFO:
           Outbound:
                29 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 10:
@@ -1863,12 +1915,12 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 9
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -1900,7 +1952,7 @@ INFO:
           Outbound:
                29 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 10:
@@ -1997,12 +2049,34 @@ INFO:
                Passenger 90
                Passenger 95
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 62 arrived at Station 3 in 8 ticks
+
+      Passenger 172 arrived at Station 3 in 5 ticks
+
+      Passenger 92 arrived at Station 3 in 8 ticks
+
+      Passenger 164 arrived at Station 3 in 5 ticks
+
+      Passenger 149 arrived at Station 3 in 6 ticks
+
+      Passenger 129 arrived at Station 3 in 7 ticks
+
+      Passenger 25 arrived at Station 4 in 9 ticks
+
+      Passenger 31 arrived at Station 4 in 9 ticks
+
+      Passenger 38 arrived at Station 4 in 9 ticks
+
+      Passenger 49 arrived at Station 4 in 9 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 9
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2034,7 +2108,7 @@ INFO:
           Outbound:
                31 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 11:
@@ -2141,12 +2215,12 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 10
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2178,7 +2252,7 @@ INFO:
           Outbound:
                31 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 11:
@@ -2285,12 +2359,28 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 48 arrived at Station 4 in 10 ticks
+
+      Passenger 47 arrived at Station 4 in 10 ticks
+
+      Passenger 44 arrived at Station 4 in 10 ticks
+
+      Passenger 34 arrived at Station 4 in 10 ticks
+
+      Passenger 83 arrived at Station 4 in 9 ticks
+
+      Passenger 29 arrived at Station 4 in 10 ticks
+
+      Passenger 53 arrived at Station 4 in 9 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 10
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2322,7 +2412,7 @@ INFO:
           Outbound:
                30 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 12:
@@ -2429,12 +2519,12 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 11
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2466,7 +2556,7 @@ INFO:
           Outbound:
                30 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 12:
@@ -2573,12 +2663,14 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 11
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2610,7 +2702,7 @@ INFO:
           Outbound:
                33 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 13:
@@ -2717,12 +2809,12 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 12
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2754,7 +2846,7 @@ INFO:
           Outbound:
                33 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 13:
@@ -2861,12 +2953,14 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 12
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -2898,7 +2992,7 @@ INFO:
           Outbound:
                38 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 14:
@@ -3005,12 +3099,12 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 13
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3042,7 +3136,7 @@ INFO:
           Outbound:
                38 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 14:
@@ -3149,12 +3243,24 @@ INFO:
                Passenger 133
                Passenger 183
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 58 arrived at Station 3 in 12 ticks
+
+      Passenger 65 arrived at Station 3 in 12 ticks
+
+      Passenger 68 arrived at Station 3 in 12 ticks
+
+      Passenger 110 arrived at Station 3 in 11 ticks
+
+      Passenger 192 arrived at Station 3 in 8 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 13
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3186,7 +3292,7 @@ INFO:
           Outbound:
                43 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 15:
@@ -3305,12 +3411,12 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 14
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3342,7 +3448,7 @@ INFO:
           Outbound:
                43 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 15:
@@ -3461,12 +3567,40 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 18 arrived at Station 3 in 14 ticks
+
+      Passenger 23 arrived at Station 3 in 14 ticks
+
+      Passenger 30 arrived at Station 3 in 14 ticks
+
+      Passenger 148 arrived at Station 3 in 11 ticks
+
+      Passenger 320 arrived at Station 3 in 6 ticks
+
+      Passenger 274 arrived at Station 3 in 7 ticks
+
+      Passenger 279 arrived at Station 3 in 7 ticks
+
+      Passenger 290 arrived at Station 3 in 7 ticks
+
+      Passenger 80 arrived at Station 4 in 13 ticks
+
+      Passenger 194 arrived at Station 4 in 9 ticks
+
+      Passenger 187 arrived at Station 4 in 10 ticks
+
+      Passenger 179 arrived at Station 4 in 10 ticks
+
+      Passenger 70 arrived at Station 4 in 13 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 14
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3498,7 +3632,7 @@ INFO:
           Outbound:
                52 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 16:
@@ -3617,12 +3751,12 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 15
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3654,7 +3788,7 @@ INFO:
           Outbound:
                52 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 16:
@@ -3773,12 +3907,14 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 15
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3810,7 +3946,7 @@ INFO:
           Outbound:
                52 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 17:
@@ -3929,12 +4065,12 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 16
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -3966,7 +4102,7 @@ INFO:
           Outbound:
                52 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 17:
@@ -4085,12 +4221,40 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 6 arrived at Station 2 in 16 ticks
+
+      Passenger 10 arrived at Station 2 in 16 ticks
+
+      Passenger 28 arrived at Station 2 in 16 ticks
+
+      Passenger 27 arrived at Station 2 in 16 ticks
+
+      Passenger 14 arrived at Station 2 in 16 ticks
+
+      Passenger 7 arrived at Station 2 in 16 ticks
+
+      Passenger 4 arrived at Station 2 in 16 ticks
+
+      Passenger 95 arrived at Station 2 in 15 ticks
+
+      Passenger 42 arrived at Station 2 in 16 ticks
+
+      Passenger 19 arrived at Station 2 in 16 ticks
+
+      Passenger 86 arrived at Station 2 in 15 ticks
+
+      Passenger 82 arrived at Station 2 in 15 ticks
+
+      Passenger 8 arrived at Station 2 in 16 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 16
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4122,7 +4286,7 @@ INFO:
           Outbound:
                66 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 18:
@@ -4241,12 +4405,12 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 17
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4278,7 +4442,7 @@ INFO:
           Outbound:
                66 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 18:
@@ -4397,12 +4561,14 @@ INFO:
                Passenger 331
                Passenger 355
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 17
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4434,7 +4600,7 @@ INFO:
           Outbound:
                74 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 19:
@@ -4556,12 +4722,12 @@ INFO:
                Passenger 426
                Passenger 443
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 18
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4593,7 +4759,7 @@ INFO:
           Outbound:
                74 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 0 at index 19:
@@ -4715,12 +4881,20 @@ INFO:
                Passenger 426
                Passenger 443
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 124 arrived at Station 4 in 16 ticks
+
+      Passenger 145 arrived at Station 4 in 15 ticks
+
+      Passenger 153 arrived at Station 4 in 15 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 18
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4752,7 +4926,7 @@ INFO:
           Outbound:
                71 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 15:
@@ -4874,12 +5048,12 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 19
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -4911,7 +5085,7 @@ INFO:
           Outbound:
                71 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 15:
@@ -5033,12 +5207,78 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 39 arrived at Station 0 in 19 ticks
+
+      Passenger 292 arrived at Station 0 in 12 ticks
+
+      Passenger 291 arrived at Station 0 in 12 ticks
+
+      Passenger 287 arrived at Station 0 in 12 ticks
+
+      Passenger 265 arrived at Station 0 in 13 ticks
+
+      Passenger 236 arrived at Station 0 in 13 ticks
+
+      Passenger 229 arrived at Station 0 in 13 ticks
+
+      Passenger 203 arrived at Station 0 in 14 ticks
+
+      Passenger 201 arrived at Station 0 in 14 ticks
+
+      Passenger 193 arrived at Station 0 in 14 ticks
+
+      Passenger 176 arrived at Station 0 in 15 ticks
+
+      Passenger 98 arrived at Station 0 in 18 ticks
+
+      Passenger 94 arrived at Station 0 in 18 ticks
+
+      Passenger 85 arrived at Station 0 in 18 ticks
+
+      Passenger 16 arrived at Station 0 in 19 ticks
+
+      Passenger 1 arrived at Station 0 in 19 ticks
+
+      Passenger 43 arrived at Station 0 in 19 ticks
+
+      Passenger 21 arrived at Station 0 in 19 ticks
+
+      Passenger 26 arrived at Station 0 in 19 ticks
+
+      Passenger 90 arrived at Station 0 in 18 ticks
+
+      Passenger 57 arrived at Station 0 in 18 ticks
+
+      Passenger 15 arrived at Station 0 in 19 ticks
+
+      Passenger 12 arrived at Station 0 in 19 ticks
+
+      Passenger 36 arrived at Station 0 in 19 ticks
+
+      Passenger 2 arrived at Station 0 in 19 ticks
+
+      Passenger 84 arrived at Station 3 in 18 ticks
+
+      Passenger 81 arrived at Station 3 in 18 ticks
+
+      Passenger 388 arrived at Station 3 in 9 ticks
+
+      Passenger 55 arrived at Station 3 in 18 ticks
+
+      Passenger 370 arrived at Station 3 in 9 ticks
+
+      Passenger 362 arrived at Station 3 in 10 ticks
+
+      Passenger 77 arrived at Station 3 in 18 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 19
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5070,7 +5310,7 @@ INFO:
           Outbound:
                74 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 16:
@@ -5165,12 +5405,12 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 20
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5202,7 +5442,7 @@ INFO:
           Outbound:
                74 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 16:
@@ -5297,12 +5537,14 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 20
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5334,7 +5576,7 @@ INFO:
           Outbound:
                76 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 17:
@@ -5429,12 +5671,12 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 21
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5466,7 +5708,7 @@ INFO:
           Outbound:
                76 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 17:
@@ -5561,12 +5803,14 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 21
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5598,7 +5842,7 @@ INFO:
           Outbound:
                76 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 18:
@@ -5718,12 +5962,12 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 22
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5755,7 +5999,7 @@ INFO:
           Outbound:
                76 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 18:
@@ -5875,12 +6119,16 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 161 arrived at Station 4 in 19 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 22
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -5912,7 +6160,7 @@ INFO:
           Outbound:
                77 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 19:
@@ -6032,12 +6280,12 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 23
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6069,7 +6317,7 @@ INFO:
           Outbound:
                77 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 4 at index 19:
@@ -6189,12 +6437,14 @@ INFO:
                Passenger 597
                Passenger 608
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 23
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6226,7 +6476,7 @@ INFO:
           Outbound:
                82 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 4:
@@ -6346,12 +6596,12 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 24
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6383,7 +6633,7 @@ INFO:
           Outbound:
                82 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 4:
@@ -6503,12 +6753,34 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 118 arrived at Station 2 in 22 ticks
+
+      Passenger 211 arrived at Station 2 in 19 ticks
+
+      Passenger 146 arrived at Station 2 in 21 ticks
+
+      Passenger 102 arrived at Station 2 in 23 ticks
+
+      Passenger 104 arrived at Station 2 in 23 ticks
+
+      Passenger 130 arrived at Station 2 in 22 ticks
+
+      Passenger 142 arrived at Station 2 in 21 ticks
+
+      Passenger 155 arrived at Station 2 in 21 ticks
+
+      Passenger 147 arrived at Station 2 in 21 ticks
+
+      Passenger 158 arrived at Station 2 in 21 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 24
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6540,7 +6812,7 @@ INFO:
           Outbound:
                88 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 5:
@@ -6660,12 +6932,12 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 25
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6697,7 +6969,7 @@ INFO:
           Outbound:
                88 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 5:
@@ -6817,12 +7089,14 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 25
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -6854,7 +7128,7 @@ INFO:
           Outbound:
                93 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 6:
@@ -6974,12 +7248,12 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 26
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7011,7 +7285,7 @@ INFO:
           Outbound:
                93 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 6:
@@ -7131,12 +7405,14 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 26
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7168,7 +7444,7 @@ INFO:
           Outbound:
                97 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 7:
@@ -7288,12 +7564,12 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 27
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7325,7 +7601,7 @@ INFO:
           Outbound:
                97 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 7:
@@ -7445,12 +7721,38 @@ INFO:
                Passenger 789
                Passenger 808
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 71 arrived at Station 0 in 26 ticks
+
+      Passenger 382 arrived at Station 0 in 17 ticks
+
+      Passenger 378 arrived at Station 0 in 17 ticks
+
+      Passenger 369 arrived at Station 0 in 17 ticks
+
+      Passenger 357 arrived at Station 0 in 18 ticks
+
+      Passenger 342 arrived at Station 0 in 18 ticks
+
+      Passenger 333 arrived at Station 0 in 18 ticks
+
+      Passenger 309 arrived at Station 0 in 19 ticks
+
+      Passenger 46 arrived at Station 0 in 27 ticks
+
+      Passenger 159 arrived at Station 0 in 24 ticks
+
+      Passenger 107 arrived at Station 0 in 25 ticks
+
+      Passenger 59 arrived at Station 0 in 26 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 27
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7482,7 +7784,7 @@ INFO:
           Outbound:
                99 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 8:
@@ -7592,12 +7894,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 28
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7629,7 +7931,7 @@ INFO:
           Outbound:
                99 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 8:
@@ -7739,12 +8041,18 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 175 arrived at Station 2 in 24 ticks
+
+      Passenger 75 arrived at Station 2 in 27 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 28
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7776,7 +8084,7 @@ INFO:
           Outbound:
                99 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 9:
@@ -7886,12 +8194,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 29
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -7923,7 +8231,7 @@ INFO:
           Outbound:
                99 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 9:
@@ -8033,12 +8341,14 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 29
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8070,7 +8380,7 @@ INFO:
           Outbound:
                104 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 10:
@@ -8192,12 +8502,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 30
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8229,7 +8539,7 @@ INFO:
           Outbound:
                104 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 10:
@@ -8351,12 +8661,22 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 100 arrived at Station 4 in 29 ticks
+
+      Passenger 116 arrived at Station 4 in 28 ticks
+
+      Passenger 119 arrived at Station 4 in 28 ticks
+
+      Passenger 198 arrived at Station 4 in 25 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 30
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8388,7 +8708,7 @@ INFO:
           Outbound:
                108 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 11:
@@ -8510,12 +8830,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 31
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8547,7 +8867,7 @@ INFO:
           Outbound:
                108 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 11:
@@ -8669,12 +8989,20 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 174 arrived at Station 0 in 27 ticks
+
+      Passenger 431 arrived at Station 0 in 21 ticks
+
+      Passenger 405 arrived at Station 0 in 21 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 31
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8706,7 +9034,7 @@ INFO:
           Outbound:
                110 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 12:
@@ -8825,12 +9153,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 32
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -8862,7 +9190,7 @@ INFO:
           Outbound:
                110 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 12:
@@ -8981,12 +9309,18 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 253 arrived at Station 2 in 26 ticks
+
+      Passenger 267 arrived at Station 2 in 25 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 32
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9018,7 +9352,7 @@ INFO:
           Outbound:
                116 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 13:
@@ -9137,12 +9471,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 33
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9174,7 +9508,7 @@ INFO:
           Outbound:
                116 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 13:
@@ -9293,12 +9627,14 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 33
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9330,7 +9666,7 @@ INFO:
           Outbound:
                121 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 14:
@@ -9452,12 +9788,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 34
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9489,7 +9825,7 @@ INFO:
           Outbound:
                121 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 14:
@@ -9611,12 +9947,14 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 34
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9648,7 +9986,7 @@ INFO:
           Outbound:
                127 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 15:
@@ -9770,12 +10108,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 35
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9807,7 +10145,7 @@ INFO:
           Outbound:
                127 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 15:
@@ -9929,12 +10267,42 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 88 arrived at Station 3 in 34 ticks
+
+      Passenger 452 arrived at Station 3 in 24 ticks
+
+      Passenger 93 arrived at Station 3 in 34 ticks
+
+      Passenger 96 arrived at Station 3 in 34 ticks
+
+      Passenger 220 arrived at Station 3 in 30 ticks
+
+      Passenger 206 arrived at Station 3 in 30 ticks
+
+      Passenger 189 arrived at Station 3 in 30 ticks
+
+      Passenger 123 arrived at Station 3 in 33 ticks
+
+      Passenger 167 arrived at Station 3 in 31 ticks
+
+      Passenger 163 arrived at Station 3 in 31 ticks
+
+      Passenger 154 arrived at Station 3 in 32 ticks
+
+      Passenger 138 arrived at Station 3 in 33 ticks
+
+      Passenger 143 arrived at Station 3 in 32 ticks
+
+      Passenger 139 arrived at Station 3 in 33 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 35
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -9966,7 +10334,7 @@ INFO:
           Outbound:
                135 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 16:
@@ -10088,12 +10456,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 36
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10125,7 +10493,7 @@ INFO:
           Outbound:
                135 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 16:
@@ -10247,12 +10615,14 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 36
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10284,7 +10654,7 @@ INFO:
           Outbound:
                135 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 17:
@@ -10406,12 +10776,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 37
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10443,7 +10813,7 @@ INFO:
           Outbound:
                135 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 17:
@@ -10565,12 +10935,14 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 37
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10602,7 +10974,7 @@ INFO:
           Outbound:
                139 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 18:
@@ -10724,12 +11096,12 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 38
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10761,7 +11133,7 @@ INFO:
           Outbound:
                139 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 18:
@@ -10883,12 +11255,22 @@ INFO:
                Passenger 177
                Passenger 182
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 177 arrived at Station 2 in 34 ticks
+
+      Passenger 255 arrived at Station 4 in 32 ticks
+
+      Passenger 230 arrived at Station 4 in 32 ticks
+
+      Passenger 257 arrived at Station 4 in 32 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 38
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -10920,7 +11302,7 @@ INFO:
           Outbound:
                147 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 19:
@@ -11042,12 +11424,12 @@ INFO:
                Passenger 182
                Passenger 519
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 39
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11079,7 +11461,7 @@ INFO:
           Outbound:
                147 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 5 at index 19:
@@ -11201,12 +11583,14 @@ INFO:
                Passenger 182
                Passenger 519
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 39
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11238,7 +11622,7 @@ INFO:
           Outbound:
                153 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 12:
@@ -11360,12 +11744,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 40
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11397,7 +11781,7 @@ INFO:
           Outbound:
                153 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 12:
@@ -11519,12 +11903,14 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 40
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11556,7 +11942,7 @@ INFO:
           Outbound:
                160 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 13:
@@ -11678,12 +12064,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 41
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11715,7 +12101,7 @@ INFO:
           Outbound:
                160 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 13:
@@ -11837,12 +12223,18 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 182 arrived at Station 0 in 37 ticks
+
+      Passenger 519 arrived at Station 0 in 29 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 41
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -11874,7 +12266,7 @@ INFO:
           Outbound:
                162 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 14:
@@ -11994,12 +12386,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 42
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12031,7 +12423,7 @@ INFO:
           Outbound:
                162 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 14:
@@ -12151,12 +12543,14 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 42
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12188,7 +12582,7 @@ INFO:
           Outbound:
                165 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 15:
@@ -12308,12 +12702,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 43
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12345,7 +12739,7 @@ INFO:
           Outbound:
                165 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 15:
@@ -12465,12 +12859,26 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 234 arrived at Station 3 in 37 ticks
+
+      Passenger 241 arrived at Station 3 in 37 ticks
+
+      Passenger 245 arrived at Station 3 in 37 ticks
+
+      Passenger 226 arrived at Station 3 in 37 ticks
+
+      Passenger 262 arrived at Station 3 in 37 ticks
+
+      Passenger 263 arrived at Station 3 in 37 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 43
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12502,7 +12910,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 16:
@@ -12624,12 +13032,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 44
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12661,7 +13069,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 16:
@@ -12783,12 +13191,14 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 44
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12820,7 +13230,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 17:
@@ -12942,12 +13352,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 45
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -12979,7 +13389,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 17:
@@ -13101,12 +13511,14 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 45
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13138,7 +13550,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 18:
@@ -13260,12 +13672,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 46
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13297,7 +13709,7 @@ INFO:
           Outbound:
                171 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 18:
@@ -13419,12 +13831,16 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 283 arrived at Station 2 in 39 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 46
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13456,7 +13872,7 @@ INFO:
           Outbound:
                176 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 19:
@@ -13578,12 +13994,12 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 47
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13615,7 +14031,7 @@ INFO:
           Outbound:
                176 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 3 at index 19:
@@ -13737,12 +14153,16 @@ INFO:
                Passenger 1185
                Passenger 1206
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+      Passenger 275 arrived at Station 3 in 40 ticks
+
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 47
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13774,7 +14194,7 @@ INFO:
           Outbound:
                183 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 2 at index 16:
@@ -13896,12 +14316,12 @@ INFO:
                Passenger 1355
                Passenger 1360
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -13933,7 +14353,7 @@ INFO:
           Outbound:
                183 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 2 at index 16:
@@ -14055,12 +14475,14 @@ INFO:
                Passenger 1355
                Passenger 1360
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 48
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -14092,7 +14514,7 @@ INFO:
           Outbound:
                188 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 2 at index 17:
@@ -14214,12 +14636,12 @@ INFO:
                Passenger 1355
                Passenger 1360
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 Start of Tick 49
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -14251,7 +14673,7 @@ INFO:
           Outbound:
                188 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 2 at index 17:
@@ -14373,12 +14795,14 @@ INFO:
                Passenger 1355
                Passenger 1360
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim main
+INFO: 
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
 --------------------------------
 End of Tick 49
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Station 0 at index 1
           Inbound:
@@ -14410,7 +14834,7 @@ INFO:
           Outbound:
                190 Passengers
 
-Oct 30, 2017 8:42:35 AM edu.wit.dcsn.comp2000.queueapp.Sim logState
+Oct 30, 2017 7:51:33 PM edu.wit.dcsn.comp2000.queueapp.Sim logState
 INFO: 
      Inbound Trains:
           Train 2 at index 18:
